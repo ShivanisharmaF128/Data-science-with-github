@@ -1,6 +1,6 @@
 # Machine Learning Projects Repository
-
 This repository contains a curated collection of machine learning projects completed on Kaggle, demonstrating practical applications of data analysis, predictive modeling, and AI techniques across diverse domains. Each project includes clean, well-documented Jupyter notebooks that cover exploratory data analysis (EDA), data preprocessing, model building, evaluation, and visualization.
+
 ---
 
 ---

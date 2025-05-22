@@ -8,14 +8,14 @@ This repository contains a curated collection of machine learning projects compl
 - **House Price Prediction (Bangalore & General)** – Built regression models using Scikit-learn.
 - **Titanic Survival Prediction** – Classification using logistic regression and ensemble methods.
 -  **Indian Liver Disease Prediction** – Healthcare data modeling.
-•	**Customer Churn Prediction (ANN)** – Neural network model for telecom churn detection.
-•	**Emotion Detection (NLP + ML)** – Used sentiment analysis to detect emotions in text.
-•	**Olympics 2024 Forecast** – Predictive analytics project using historical sports data.
-•	**2025 MBA Admission EDA** – Built visual reports to uncover trends in applicant profiles.
-•	**Airbnb NYC 2024 Analysis** – Conducted exploratory data analysis on rental trends.
-•	**Netflix Data Analysis with Pandas** – Analyzed movie and TV show data to identify content trends and user preferences.
-•	 **AI-Powered Job Market Analysis** – Built ML models to study job market trends and forecast industry demands.
-•	 **Exploring World Population Using NumPy** – Used NumPy for numerical analysis and visualization of global population patterns
+-	**Customer Churn Prediction (ANN)** – Neural network model for telecom churn detection.
+-	**Emotion Detection (NLP + ML)** – Used sentiment analysis to detect emotions in text.
+-	**Olympics 2024 Forecast** – Predictive analytics project using historical sports data.
+-	**2025 MBA Admission EDA** – Built visual reports to uncover trends in applicant profiles.
+-	**Airbnb NYC 2024 Analysis** – Conducted exploratory data analysis on rental trends.
+-	**Netflix Data Analysis with Pandas** – Analyzed movie and TV show data to identify content trends and user preferences.
+-	 **AI-Powered Job Market Analysis** – Built ML models to study job market trends and forecast industry demands.
+-	 **Exploring World Population Using NumPy** – Used NumPy for numerical analysis and visualization of global population patterns
 
 ---
 

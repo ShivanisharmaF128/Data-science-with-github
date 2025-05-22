@@ -5,9 +5,9 @@ This repository contains a curated collection of machine learning projects compl
 
 ---
 ## Projects Included:
-	**House Price Prediction (Bangalore & General)** – Built regression models using Scikit-learn.
-	**Titanic Survival Prediction** – Classification using logistic regression and ensemble methods.
-  **Indian Liver Disease Prediction** – Healthcare data modeling.
+- **House Price Prediction (Bangalore & General)** – Built regression models using Scikit-learn.
+- **Titanic Survival Prediction** – Classification using logistic regression and ensemble methods.
+-  **Indian Liver Disease Prediction** – Healthcare data modeling.
 •	**Customer Churn Prediction (ANN)** – Neural network model for telecom churn detection.
 •	**Emotion Detection (NLP + ML)** – Used sentiment analysis to detect emotions in text.
 •	**Olympics 2024 Forecast** – Predictive analytics project using historical sports data.
